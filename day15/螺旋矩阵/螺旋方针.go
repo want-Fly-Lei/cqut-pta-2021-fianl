@@ -61,7 +61,7 @@ func showResult(n1 int32) {
 	}
 	for j = 0; j < n1; j++ {
 		for k = 0; k < n1; k++ {
-			fmt.Printf("%3d", arr[j][k])
+			fmt.Printf("%4d", arr[j][k])
 		}
 		fmt.Println()
 	}
