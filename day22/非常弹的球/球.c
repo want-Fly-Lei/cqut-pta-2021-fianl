@@ -2,7 +2,7 @@
 
 //根据公式所知cosa * sina 最大时候最大，所以应该是45,位移是v^2 / g
 int main() {
-	const double a = 9.8, energy = 100,rate = 100;
+	const double a = 9.8, energy = 1000,rate = 100;
 	double v2,sum = 0;
 	int weight,tran;
 	scanf("%d %d",&weight,&tran);
