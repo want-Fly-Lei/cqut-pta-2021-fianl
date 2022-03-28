@@ -44,7 +44,7 @@ int main() {
             temp4 = 0;
         }
     }
-    len = strlen(res);
+    len = strlen(res);  
     //删除多余开头多余的
     for(i = len - 1; i >= 0; i--) {
         if(res[i] == '0') {
