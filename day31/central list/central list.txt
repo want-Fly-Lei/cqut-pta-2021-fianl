@@ -1,0 +1,13 @@
+If a list is central symmetry, it is called a central list. for example, 1->3->5->7->9->7->5->3->1 is a central list.
+Give you a sequence of numbers, form a link list and then judge whether it is a central list.
+
+输入格式:
+A sequence of numbers seperated by comma
+
+输出格式:
+If it is a central list output Yes, otherwise No
+
+输入样例:
+1,3,5,7,9,7,5,3,1,
+输出样例:
+Yes
